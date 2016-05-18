@@ -4,6 +4,7 @@ Project Working Title: BlueBox
 // 18-05-16
 Step One: Try collecting data from the Bluetooth Module 
 Bluetooth Module: Sparkfun Smirf Gold 
+Cost: A$ 23.80 www.element14.com.au
 
           ----xxx----
 The idea is to change the initial sketch to reflect the following changes:
@@ -20,3 +21,9 @@ Further on: The Master device then transmits this information over the internet 
             The server logs the values and simplifies the data into readable values.
             It then feeds these values into an artificial neural network which corealates the data set values from the sensors with other data sets available into a learning algorithm 
             This raw data and stored historical data values are pulled off the cloud server by a web app that simplifies the data into graphs and charts. 
+            
+Things to do:
+System Structure Diagram 
+Data Flow Diagram
+Contextual Diagram 
+
